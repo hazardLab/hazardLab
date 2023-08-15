@@ -1,4 +1,8 @@
-### Hi there 👋
+# hazardLab
+
+Hypothetically it's a home page that details the shenanigans I'm up to.
+
+In practice, we'll see how much shenanigan-ing I get into.
 
 <!--
 **hazardLab/hazardLab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
