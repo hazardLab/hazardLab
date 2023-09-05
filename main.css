@@ -14,3 +14,11 @@ p, li, h1, h2, h3, h4, h5, h6 {
   width: 500px;
   margin: auto;
 }
+
+a:link {
+  color: rgb(232, 248, 161);
+}
+
+a:visited {
+  color: rgb(199, 214, 130);
+}
